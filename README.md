@@ -1,3 +1,3 @@
 # HEAVENRUN
-#### Running application
-#### status : in progress
+#### Running mobile application
+#### status : In progress
